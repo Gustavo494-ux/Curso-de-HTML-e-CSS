@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "go build CursoHtmlCss",
+            "type": "go",
+            "workingDir": "E:/Projetos/Front/Alura/Curso de HTML e CSS",
+            "goExecPath": "C:\\Program Files\\Go\\bin\\go.exe",
+            "buildParams": [
+                "CursoHtmlCss"
+            ]
+        },
+    ]
+}
